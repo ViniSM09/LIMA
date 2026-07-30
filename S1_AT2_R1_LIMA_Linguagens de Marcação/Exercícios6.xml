@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<escola>
+
+ <aluno>
+  <nome>Lucas</nome>
+  <matricula>202501</matricula> 
+  <curso>Informática</curso> 
+  <disciplinas> 
+   <disciplina>Banco de Dados</disciplina> 
+   <disciplina>Lógica de Programação</disciplina> 
+  </disciplinas>
+ </aluno>
+
+ <aluno>
+  <nome>Ana</nome>
+  <matricula>202502</matricula> 
+  <curso>Informática</curso> 
+  <disciplinas> 
+   <disciplina>Banco de Dados</disciplina> 
+   <disciplina>Lógica de Programação</disciplina> 
+  </disciplinas>
+ </aluno>
+
+</escola>
+
+
